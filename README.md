@@ -30,7 +30,8 @@ Quick-add modals let users record transactions on the go. You can set custom tit
 | Add Income Flow | Record New Expense |
 | :---: | :---: |
 | <img width="609" height="885" alt="Screenshot 2026-05-23 220453" src="https://github.com/user-attachments/assets/95c7a669-70f2-47d8-99b1-aa1f2646dd86" />
- | <img width="609" height="885" alt="Screenshot 2026-05-23 220453" src="https://github.com/user-attachments/assets/146bc066-15aa-4378-8051-241eef25fd48" />
+ |<img width="617" height="870" alt="Screenshot 2026-05-23 220352" src="https://github.com/user-attachments/assets/461415b4-939c-4d5f-accd-e86eb5ce6194" />
+
  |
 | Segment inflows by categories like Salary, Freelance, or Investments. | Track outlays by categories like Food, Travel, Bills, or Shopping. |
 
@@ -42,7 +43,8 @@ Review a chronological timeline history of all itemized transactions, paired wit
 | Core Transaction History Ledger | Categorical Spending Wheel |
 | :---: | :---: |
 |<img width="609" height="885" alt="Screenshot 2026-05-23 220453" src="https://github.com/user-attachments/assets/3c0917e9-b9bc-4de7-a71e-f182d74c6c74" />
- |<img width="615" height="883" alt="Screenshot 2026-05-23 220606" src="https://github.com/user-attachments/assets/e2fa3f06-ee11-49fb-9839-90712249e406" />
+ |<img width="607" height="880" alt="Screenshot 2026-05-23 220548" src="https://github.com/user-attachments/assets/7102ae3c-d714-48c6-8b14-a7f1e225aac9" />
+
  |
 | Fully scrollable list sorted by date with distinct income/expense color highlights. | Dynamic interactive distribution chart separating out relative spending weights. |
 

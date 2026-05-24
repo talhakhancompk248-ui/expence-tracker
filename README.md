@@ -17,7 +17,8 @@ The dashboard tracks your running Total Balance, Monthly Income, and Monthly Exp
 | Dashboard Empty State | Active Ledger Sheet |
 | :---: | :---: |
 | <img width="615" height="879" alt="Screenshot 2026-05-23 220250" src="https://github.com/user-attachments/assets/9d8cc343-82dd-49c1-a619-a68ae162bd75" />
-> | <img width="615" height="879" alt="Screenshot 2026-05-23 220250" src="https://github.com/user-attachments/assets/18d1f35c-1b0e-474c-9dc3-898336c39274" />
+> | <img width="621" height="884" alt="Screenshot 2026-05-23 220659" src="https://github.com/user-attachments/assets/efd22fa1-0103-4523-b556-3cac0b3c237a" />
+
  |
 | Initial zero-balance view with clean onboarding cues. | Populated layout tracking total cashflows and itemized ledgers. |
 
